@@ -12,6 +12,11 @@
     </h3>
 </header>
 <hr>
+## 📊 My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusOrozcoVaca&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusOrozcoVaca&layout=compact&theme=dark)
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">

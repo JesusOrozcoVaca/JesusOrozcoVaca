@@ -12,11 +12,11 @@
     </h3>
 </header>
 <hr>
-## 📊 My Stats
+<h2 align="center">📊 My Stats</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusOrozcoVaca&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusOrozcoVaca&layout=compact&theme=dark)
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JesusOrozcoVaca&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
@@ -44,10 +44,21 @@
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor AI" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCHarm" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
     </div>
-    <h2 align="center">Used Program's</h2>
+
+<h2 align="center">🤖 AI Tools</h2>
+
+<div align="center">
+    <!-- Cursor AI -->
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor AI" width="70">
+    <!-- ChatGPT (logo simple) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="70">
+</div>
+
+<h2 align="center">Used Program's</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="PSD" width="80">
@@ -55,7 +66,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="AE" width="80">
     </div>
 </div>
-<hr>
 <!--<footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
